@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-A beautiful, macOS-styled application to download content from YouTube channels.
+macOS-styled application to download content from YouTube channels.
 
 ## Features
 
@@ -8,7 +8,6 @@ A beautiful, macOS-styled application to download content from YouTube channels.
 - Select individual videos or all videos at once
 - Download options: video, audio-only, or transcripts
 - Concurrent downloads for maximum efficiency
-- Beautiful, Apple-like user interface
 
 ## Installation
 
