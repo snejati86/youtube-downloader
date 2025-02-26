@@ -14,8 +14,8 @@ A beautiful, macOS-styled application to download content from YouTube channels.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/ytdownload.git
-cd ytdownload
+git clone https://github.com/snejati86/youtube-downloader.git
+cd youtube-downloader
 ```
 
 2. Create a virtual environment and install dependencies:
